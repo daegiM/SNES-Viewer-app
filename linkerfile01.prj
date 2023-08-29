@@ -1,0 +1,10 @@
+[objects]
+data.o 
+picturefile01.o  
+crt0_snes.obj
+libc.obj
+libm.obj
+libtcc.obj 
+
+
+
