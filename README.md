@@ -12,11 +12,11 @@ To compile above you need wla-65816 and wlalink file
 
 On CMD type 
 
-> wla-65816 data.asm 
+>> wla-65816 data.asm 
 
-> wla-65816 picturefile01.asm
+>> wla-65816 picturefile01.asm
 
-> wlalink linkerfile01.prj sfcpicture01.sfc
+>> wlalink linkerfile01.prj sfcpicture01.sfc 
 
 It will create sfcpicture01.sfc file and 
 
