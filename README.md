@@ -26,7 +26,7 @@ On CMD type
 
 >> wla-65816 picturefile01.asm
 
->> wlalink linkerfile01.prj sfcpicture01.sfc 
+>> wlalink -d linkerfile01.prj sfcpicture01.sfc 
 
 It will create sfcpicture01.sfc file and 
 
