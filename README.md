@@ -10,6 +10,16 @@ I used Mode1 background and added monochrome 2 bmp picture
 
 To compile above you need wla-65816 and wlalink file 
 
+You can download from 
+
+https://github.com/alekmaul/pvsneslib 
+
+You can search the file on the release section 
+
+Latest release was 4.1.0 
+
+After download two file enter CMD 
+
 On CMD type 
 
 >> wla-65816 data.asm 
